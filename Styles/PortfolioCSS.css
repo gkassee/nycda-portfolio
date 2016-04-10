@@ -91,3 +91,14 @@ a {
 	margin-right: 150px;
 /*	border: solid 3px;*/
 }
+
+#aboutme {
+	float: both;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.image {
+	float: left;
+	margin: 10px 20px 10px;
+}
