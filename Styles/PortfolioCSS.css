@@ -40,11 +40,7 @@ ul {
 	background-color: #0e3e3c;
 }
 
-a {
-    display: block;
-    padding: 8px;
-    background-color: #0e3e3c;
-}
+
 
 .active {
 	background-color: #ced8d8;
@@ -96,9 +92,16 @@ a {
 	float: both;
 	width: 80%;
 	margin: 0 auto;
+	padding-bottom: 10px;
 }
 
 .image {
 	float: left;
 	margin: 10px 20px 10px;
 }
+
+/*.social {
+	text-align: center;
+	display: inline;
+
+}*/
