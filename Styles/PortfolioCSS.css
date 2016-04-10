@@ -9,6 +9,12 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	text-align: center;
+	padding-top: 10px;
+	font-style: italic;
+}
+
 li {
 	float: left;
 }
@@ -66,9 +72,22 @@ a {
 	height: 450px;
 }
 
-.bio {
+#bio {
 	float: right;
 	padding: 95px 10px 20px;
 	width: 650px;
 	height: 450px;
+}
+
+#contactinfo {
+	float: right;
+	text-align: right;
+	padding-top: 90px;
+	padding-right: 80px;
+}
+
+#contactpic {
+	float: right;
+	margin-right: 150px;
+/*	border: solid 3px;*/
 }
